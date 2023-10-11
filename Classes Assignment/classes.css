@@ -1,0 +1,18 @@
+h2{
+    background-color: red;
+    color:white;
+    border: black solid 2px;
+    width: 80%;
+}
+
+.desc{
+    background-color: darkgray;
+    color:black;
+    padding: 15px;
+    margin: -2px;
+    width: 80%;
+}
+
+button{
+    margin-top: 5px;
+}
